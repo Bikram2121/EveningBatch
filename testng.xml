@@ -10,9 +10,4 @@
 			<class name="com.sellabs.wdprogram.TestNGProg" />
 		</classes>
 	</test>
-	<test name="MultipleTest2">
-		<classes>
-			<class name="com.sellabs.wdprogram.TestNGProg2" />
-		</classes>
-	</test>
 </suite> 
