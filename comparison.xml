@@ -4,7 +4,6 @@
   <test name="TestOne">
     <classes>
       <class name="com.sellabs.wdprogram.MyClassTest1"/>
-      <class name="com.sellabs.wdprogram.MyClassTest2"/>
     </classes>
   </test> <!-- Test -->
   <test name="TestTwo">
